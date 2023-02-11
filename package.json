@@ -88,5 +88,9 @@
     "bracketSpacing": true,
     "semi": true,
     "tabWidth": 4
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "typedi": "^0.10.0"
   }
 }
